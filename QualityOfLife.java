@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-https://open.kattis.com/problems/qaly
+// https://open.kattis.com/problems/qaly
 public class QualityOfLife {
 	static double quality = 0;
 	static int quantity = 0;
