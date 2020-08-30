@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+https://open.kattis.com/problems/pet
 public class CookingShow {
 	static int winnerID = 1;
 	static int counter = 1;
