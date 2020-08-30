@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// https://open.kattis.com/problems/carrots
 public class Carrots {
 	static Scanner sc = new Scanner(System.in);
 	static int first = 0;
