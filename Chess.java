@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+https://open.kattis.com/problems/bijele
 public class Chess {
 
 	public static void main(String[] args) {
