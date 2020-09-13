@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-https://open.kattis.com/problems/heartrate
+// https://open.kattis.com/problems/heartrate
 public class HeartRate {
 	static Scanner sc = new Scanner(System.in);
 	static int caseAmount = 0;
