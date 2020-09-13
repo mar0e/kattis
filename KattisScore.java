@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// https://open.kattis.com/problems/schoolspirit
 public class KattisScore {
 	Scanner sc = new Scanner(System.in);
 	int students = 0;
