@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// https://open.kattis.com/problems/simonsays
 public class SimonSays {
 	
 	static Scanner sc = new Scanner(System.in);
