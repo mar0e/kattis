@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+// https://open.kattis.com/problems/zanzibar
 public class TurtleIsland {
 	
 	Scanner sc = new Scanner(System.in);
